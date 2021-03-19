@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/HM-chat/HM-chatcopy",
+    "pages/socket/socketcopy",
+    "pages/HM-chat/HM-chat",
+    "pages/HM-chat/HM-details/HM-details",
+    "pages/HM-chat/HM-hand/HM-hand"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

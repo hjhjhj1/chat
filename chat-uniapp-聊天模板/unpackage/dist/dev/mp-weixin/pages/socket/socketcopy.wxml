@@ -1,0 +1,1 @@
+<view><input type="text" data-event-opts="{{[['input',[['__set_model',['','input','$event',[]]]]]]}}" value="{{input}}" bindinput="__e"/><button type="default" data-event-opts="{{[['tap',[['sendSocketMessage',['$event']]]]]}}" bindtap="__e">send</button><button type="warn" data-event-opts="{{[['tap',[['guan',['$event']]]]]}}" bindtap="__e">关闭</button></view>
